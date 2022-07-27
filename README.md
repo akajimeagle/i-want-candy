@@ -3,6 +3,12 @@
 
 ---
 
+## Features:
+- Generates configuration file for candy machine.
+- Uploads Assets to ARWeave
+- Deploys Candy Machine to CMv2
+- Generates Configuration for Frontend Website
+
 ### Special Notes:
 - I'll clean this up - this is my first time writing typescript code.
 - Used: https://github.com/Fulgurus/candy-machine-v2-responsive-ui for frontend
@@ -13,6 +19,8 @@
 - Configured Solana CLI
 - Connected to Correct Cluster in Solana CLI
 - Solana in Wallet (~.3 SOL per 100 NFTs)
+- Assets folder in `cmv2-nft-launch` directory with `collection.png / collection.json` files
+  - https://docs.metaplex.com/tools/sugar/preparing-assets
 
 ### How To Use:
 1. Clone Repo `git clone https://github.com/akajimeagle/i-want-candy`
