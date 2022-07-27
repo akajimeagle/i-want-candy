@@ -24,11 +24,10 @@
 
 ### How To Use:
 1. Clone Repo `git clone https://github.com/akajimeagle/i-want-candy`
-2. CD Into Directory `cd i-want-candy`
-3. CD Into cmv2-nft-launch `cd cmv2-nft-launch`
-4. Install Dependencies `npm i`
-5. `npm run config `
-6. `npm run deploy`
+2. CD Into i-want-candy/cmv2-nft-launch `cd i-want-candy/cmv2-nft-launch`
+3. Install Dependencies `npm i`
+4. `npm run config `
+5. `npm run deploy`
 
 
 ### To Start Frontend Again:
