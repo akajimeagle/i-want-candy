@@ -2,6 +2,13 @@
 #### Better instructions / README coming soon.
 
 ---
+
+### Special Notes:
+- I'll clean this up - this is my first time writing typescript code.
+- Used: https://github.com/Fulgurus/candy-machine-v2-responsive-ui for frontend
+  - Will replace soon with custom tailwind stuffs
+- Please email me suggestions for how I could improve the organization of this project, constructive feedback is always welcome 
+  `akajimeagle@protonmail.com` 
 ### Requires:
 - Configured Solana CLI
 - Connected to Correct Cluster in Solana CLI
