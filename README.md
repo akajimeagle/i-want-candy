@@ -15,7 +15,10 @@
   - Will replace soon with custom tailwind stuffs
 - Please email me suggestions for how I could improve the organization of this project, constructive feedback is always welcome 
   `akajimeagle@protonmail.com` 
+
 ### Requires:
+- Sugar CLI Installed
+  - https://docs.metaplex.com/tools/sugar/installation
 - Configured Solana CLI
 - Connected to Correct Cluster in Solana CLI
 - Solana in Wallet (~.3 SOL per 100 NFTs)
