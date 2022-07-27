@@ -16,6 +16,10 @@
 - Please email me suggestions for how I could improve the organization of this project, constructive feedback is always welcome 
   `akajimeagle@protonmail.com` 
 
+### Frontend Config:
+- Change background image in `frontend/src/img`
+- Change logo & mint image in `frontend/public/`
+
 ### Requires:
 - Sugar CLI Installed
   - https://docs.metaplex.com/tools/sugar/installation
