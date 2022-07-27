@@ -1,0 +1,34 @@
+{
+  "name": "sugar_nft_launch",
+  "version": "1.0.0",
+  "description": "Helper For Creating and Launching NFT Project",
+  "main": "generateConfiguration.js",
+  "scripts": {
+    "config": "ts-node src/generateConfiguration.ts",
+    "deploy": "ts-node src/deployCollection.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehutzle/sugar_nft_launch.git"
+  },
+  "keywords": [
+    "sugar",
+    "candymachine",
+    "solana",
+    "nft"
+  ],
+  "author": "Jim Eagle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehutzle/sugar_nft_launch/issues"
+  },
+  "homepage": "https://github.com/ehutzle/sugar_nft_launch#readme",
+  "dependencies": {
+    "date-prompt": "^1.0.0",
+    "dotenv": "^16.0.1",
+    "glob": "^8.0.3",
+    "json": "^11.0.0",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^4.7.4"
+  }
+}
